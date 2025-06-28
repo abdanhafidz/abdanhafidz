@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdan Hafidz</h1>
-<h3 align="center">Future CEO in Edtech Company, Empowered with A.I, Software Engineering, and Business Intelligence Skills</h3>
+<h3 align="center">Software Engineer with Interest in A.I Research, Large-Language-Model (LLM), and Distributed System </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdanhafidz" alt="abdanhafidz" /></a> </p>
 
